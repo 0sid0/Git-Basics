@@ -1,6 +1,6 @@
 public class Utility {
     
-    public static void main(String[] args) {
+    public static void printHelloWorld(String[] args) {
         System.out.println("Hello, World!");
     }
 
